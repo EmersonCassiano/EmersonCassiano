@@ -3,7 +3,7 @@ EmersonCassiano/EmersonCassiano is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi 👋, I'm Emerson Cassiano da Silva</h1>
+<h1 align="center">Hi 👋, I'm Emerson</h1>
 <h3 align="center">I am a student of control and automation engineering at the federal university of Santa Maria.</h3>
 
 - 🔭 I’m currently working on projects that use the **Python programming language that involve data science and analysis, building machine learning models and web development with the django framework.**
