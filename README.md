@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Emerson Cassiano</h1>
 
 <h3 align="center">
-Backend & Data Engineer | Python & C | AWS | System Design & Software Architecture
+Software | Backend & Data Engineering | AWS | System Design & Software Architecture
 </h3>
 
 <p align="center">
-Control and Automation Engineer focused on building scalable, secure, resilient, and maintainable software systems.
+Control and Automation Engineer and Software Developer focused on Backend and Data Engineering, building scalable, secure, resilient, and maintainable software systems.
 </p>
 
 ---
@@ -14,25 +14,33 @@ Control and Automation Engineer focused on building scalable, secure, resilient,
 
 * 🎓 Graduated in **Control and Automation Engineering** from the Federal University of Santa Maria (UFSM).
 
-* 💻 Backend Developer with experience in **Python** and **C**, designing and developing robust backend services and distributed systems.
+* 💻 I work with **software development**, with a strong focus on **Backend Engineering** and **Data Engineering**.
 
-* ☁️ Experience with **AWS**, cloud infrastructure, system architecture, and cloud-native applications.
+* ⚙️ Experience developing backend applications and services using **Python, Go, C, and C++**, including APIs, integrations, asynchronous processing, and distributed systems.
 
-* 🗄️ Experience with relational and NoSQL databases, including:
-  **PostgreSQL, MySQL, MariaDB, Amazon Redshift, and MongoDB**.
+* 📊 Experience with **Data Engineering**, designing and developing data pipelines, ETL/ELT processes, data integrations, data processing systems, and scalable data architectures.
 
-* 📊 Working with **Data Engineering**, data pipelines, data processing, integrations, and scalable data architectures.
+* 🗄️ Experience with **database modeling and architecture**, working with relational, analytical, and NoSQL databases.
 
-* 🏗️ Interested in **System Design, Software Architecture, Distributed Systems, Backend Engineering, and Data Engineering**.
+* ☁️ Extensive experience with **AWS services and cloud architectures**, designing and operating scalable solutions involving compute, storage, databases, networking, messaging, monitoring, security, serverless applications, and data processing.
 
-* ⚙️ I focus on designing software that is:
-  **scalable, secure, resilient, observable, testable, and easy to maintain in the long term**.
+* 🏗️ Experience with **System Design and Software Architecture**, designing systems with scalability, resilience, performance, security, observability, and long-term maintainability in mind.
 
 * 📫 Reach me at **[emerson_cassianods@hotmail.com](mailto:emerson_cassianods@hotmail.com)**
 
 ---
 
-### 🤝 Connect with me
+### 🚀 Currently Working With
+
+I work with **software development**, with a strong focus on **Backend Engineering** and **Data Engineering**.
+
+My work involves designing and developing backend services, software systems, data pipelines, integrations, database models, and cloud-based solutions.
+
+I also work with **System Design, Software Architecture, Databases, AWS, distributed systems, and scalable software development**, always aiming to build systems that are secure, resilient, performant, and maintainable over the long term.
+
+---
+
+### 🤝 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/emerson-cassiano/" target="_blank">
@@ -44,15 +52,27 @@ Control and Automation Engineer focused on building scalable, secure, resilient,
 
 ### 🛠️ Languages & Technologies
 
-#### Backend
+#### Backend & Software Development
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
   </a>
   &nbsp;
+  <a href="https://go.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="45" height="45"/>
+  </a>
+  &nbsp;
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+  </a>
+  &nbsp;
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  </a>
+  &nbsp;
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45"/>
   </a>
   &nbsp;
   <a href="https://www.djangoproject.com/" target="_blank">
@@ -64,7 +84,9 @@ Control and Automation Engineer focused on building scalable, secure, resilient,
   </a>
 </p>
 
-#### Databases & Data
+---
+
+#### Databases & Data Platforms
 
 <p align="left">
   <a href="https://www.postgresql.org/" target="_blank">
@@ -88,13 +110,43 @@ Control and Automation Engineer focused on building scalable, secure, resilient,
   </a>
 </p>
 
-#### Cloud & Infrastructure
+**Experience with:**
+
+`Database Modeling` • `Relational Modeling` • `Data Architecture` • `Query Optimization` • `Data Warehousing` • `NoSQL` • `Data Integration`
+
+---
+
+#### Data Engineering
+
+<p align="left">
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
+  </a>
+</p>
+
+**Experience with:**
+
+`Data Pipelines` • `ETL` • `ELT` • `Data Processing` • `Data Integration` • `Data Modeling` • `Data Warehousing` • `Analytical Workloads`
+
+---
+
+#### AWS & Cloud
 
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="55" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="65" height="50"/>
   </a>
-  &nbsp;
+</p>
+
+Extensive experience designing, developing, and operating solutions using the **AWS ecosystem**, including architectures involving:
+
+`Compute` • `Storage` • `Databases` • `Networking` • `Messaging` • `Monitoring` • `Security` • `Serverless` • `Data Processing` • `Scalable Cloud Architectures`
+
+---
+
+#### Infrastructure & Development Tools
+
+<p align="left">
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
   </a>
@@ -104,7 +156,9 @@ Control and Automation Engineer focused on building scalable, secure, resilient,
   </a>
 </p>
 
-#### Data Science & Machine Learning
+---
+
+#### Machine Learning & Data Science
 
 <p align="left">
   <a href="https://pandas.pydata.org/" target="_blank">
@@ -126,12 +180,22 @@ Control and Automation Engineer focused on building scalable, secure, resilient,
 
 ---
 
-### 🧠 Areas of Interest
+### 🧠 Engineering Areas
 
-`Backend Engineering` • `Data Engineering` • `System Design` • `Software Architecture` • `Distributed Systems` • `Cloud Computing` • `Scalable Systems` • `Database Engineering` • `Software Security` • `Performance Engineering`
+`Software Engineering` • `Backend Engineering` • `Data Engineering` • `System Design` • `Software Architecture` • `Distributed Systems` • `Cloud Computing` • `AWS` • `Database Engineering` • `Database Modeling` • `Data Pipelines` • `Scalable Systems` • `High Availability` • `Software Security` • `Performance Engineering` • `Observability` • `Reliability Engineering`
 
 ---
 
-<p align="center">
-  <i>Building software for today while designing it to survive tomorrow.</i>
-</p>
+### 🎯 Engineering Principles
+
+I aim to build systems that are:
+
+* **Scalable** — capable of handling growth in traffic, data, and complexity.
+* **Resilient** — designed to tolerate failures and recover gracefully.
+* **Secure** — built with security considered throughout the software lifecycle.
+* **Performant** — designed for efficient use of computational and data resources.
+* **Observable** — systems that can be monitored, understood, and diagnosed.
+* **Maintainable** — architectures and codebases designed for long-term evolution.
+* **Testable** — software designed with reliability and automated validation in mind.
+
+---
